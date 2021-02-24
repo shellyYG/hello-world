@@ -1,0 +1,1 @@
+const fistCommit = 'Hi I am first commit';
